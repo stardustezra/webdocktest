@@ -10,6 +10,6 @@ function FeatureTabs({Title}) {
     </div>
     </>
   )
-} ...
+}
 
 export default FeatureTabs
